@@ -1,1 +1,1 @@
-My advent of code colutions for 2024 ***SPOILERS WARNING***
+My advent of code solutions for 2024 ***SPOILERS WARNING***
